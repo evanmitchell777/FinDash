@@ -1,3 +1,5 @@
+/* To do: make it to where information is pulled from stored set location that is changed by python program.
+Add Graphing */
 #include <iostream>
 using namespace std;
 
